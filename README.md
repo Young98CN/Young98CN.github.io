@@ -1,3 +1,3 @@
 # WeijieMax.github.io
 
-Website: <maweijie.site>
+Website: maweijie.site
