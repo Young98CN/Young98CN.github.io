@@ -1,3 +1,1 @@
-# WeijieMax.github.io
-
-Website: <https://maweijie.site>
+# YangYang.github.io
